@@ -45,7 +45,7 @@ Explore each dataset and clean the data as necessary
 Star schema was chosed as the data model as it is simple and effective in terms of query performance. The data could be denormalized down to fact and dimension tables allowing for easy joins and effiecient query performance.
 
 Here are the fact and dimension tables for the schema:
-![data%20model.PNG](attachment:data%20model.PNG)
+![datamodel.PNG](/datamodel.PNG)
 
 
 ### 3.2 Mapping Out Data Pipelines
